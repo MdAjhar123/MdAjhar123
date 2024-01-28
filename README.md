@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Md Ajhar 
 - 👀 I’m interested in Front-end development, Software Engineering, Web development  
 - 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me md.ajhar07860@gmail.com
 
 <!---
