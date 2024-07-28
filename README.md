@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Md Ajhar 
-- 👀 I’m interested in Front-end development, Software Engineering, Web development  
-- 🌱 I’m currently learning React.Js
-- 📫 How to reach me md.ajhar07860@gmail.com
+Welcome, this is Md Ajhar
 
-<!---
-MdAjhar123/MdAjhar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Full Stack Developer | Web Developer | C++
+
+- 2024 IT(B.Tech) 8.44 CGPA
+- Full Strack Web Developer
+- i'm currently learning Node.js and Express js
+- How to reach me:
+-  md.ajhar07860@gmail.com
+-  Excellent Analytical and Communication Skills
+-  Quick Learner
