@@ -7,6 +7,6 @@ Full Stack Developer | Web Developer | C++
 - Full Strack Web Developer
 - i'm currently learning Node.js and Express js
 - How to reach me:
-  md.ajhar07860@gmail.com
+  ajharmd3215@gmail.com
 -  Excellent Analytical and Communication Skills
 -  Quick Learner
