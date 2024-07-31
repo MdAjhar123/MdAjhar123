@@ -1,7 +1,7 @@
 Welcome, this is Md Ajhar
 
 
-Full Stack Developer | Web Developer | C++
+Full Stack Developer | Web Developer | JAVA | C++
 
 - 2024 IT(B.Tech) 8.44 CGPA
 - Full Strack Web Developer
